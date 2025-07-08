@@ -1,4 +1,4 @@
-Bu projede Flutter kullanılarak Instagram’ın ana sayfa arayüzü klonladı. 
+Bu projede Flutter kullanılarak, Instagram’ın ana sayfa arayüzü klonlandı. 
 
 Proje içeriğinde:
 - Hikayeler görünümü  
